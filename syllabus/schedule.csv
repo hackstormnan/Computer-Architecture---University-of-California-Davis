@@ -1,0 +1,32 @@
+Day,Date,Lecture Number,Class Type,Milestone,Topics Covered,Reading (Stallings),Reading (Mealy)
+Monday,2020-01-06,01,Lecture,,"Introduction, motivation","1.1, 1.2, 1.3/2.1 (10e/9e)",
+Wednesday,2020-01-08,02,Lecture,,"Basic definitions, analog vs. digital, Boolean algebra, equivalence laws",11.1 - 11.2,5.1 - 5.2.2
+Friday,2020-01-10,03,Lecture,,"Logical equivalence, gates, truth tables",11.2 - 11.3,"5.2.3, 6, 8, 9.1 - 9.2.2"
+Monday,2020-01-13,04,Lecture,,"Karnaugh maps, minimization",11.3,9.2.3 - 9.2.4
+Wednesday,2020-01-15,05,Lecture,,"Timing, combinational circuit building blocks",11.3,"7.1 - 7.4, 20"
+Friday,2020-01-17,06,Lecture,,Combinational circuit building blocks,11.3,"11.1 - 11.3, 19"
+Monday,2020-01-20,,Holiday,LAB 1,,,
+Wednesday,2020-01-22,08,Lecture,,Arithmetic logic,10.2,11.4 - 11.5
+Friday,2020-01-24,09,Lecture,,"Parity, error correction",5.2,
+Monday,2020-01-27,10,Lecture,,"Error correction, sequential circuits","5.2, 11.4",
+Wednesday,2020-01-29,11,Lecture,,"Latches, flip flops",11.4,25.1 - 25.2
+Friday,2020-01-31,12,Lecture,,Flip flop timing,11.4,
+Monday,2020-02-03,13,Lecture,LAB 2,"Registers, counters, finite state machine introduction",11.4,26.1 - 26.5
+Wednesday,2020-02-05,14,Lecture,,Moore model FSM basics,,27.1 - 27.2
+Friday,2020-02-07,15,Lecture,,Moore model FSM minimization,,29.1 - 29.4
+Monday,2020-02-10,16,Lecture,,"Mealy model FSM basics, minimization",,29.1 - 29.4
+Wednesday,2020-02-12,17,Lecture,,"Binary code assignment, more complicated FSMs",,29.1 - 29.4
+Friday,2020-02-14,,Midterm,MIDTERM,,,
+Monday,2020-02-17,,Holiday,,,,
+Wednesday,2020-02-19,20,Lecture,LAB 3,"Von Neumann architecture, single bus machine",3.1 - 3.3,
+Friday,2020-02-21,21,Lecture,,"Multiple bus machines, RISC versus CISC",15.4,
+Monday,2020-02-24,22,Lecture,,Buses,3.4,
+Wednesday,2020-02-26,23,Lecture,,"Buses, interrupts","3.2, 3.4",
+Friday,2020-02-28,24,Lecture,,"Interrupts, memory","3.2, 4.1",
+Monday,2020-03-02,25,Lecture,,"Memory, memory hierarchy",4.1,
+Wednesday,2020-03-04,26,Lecture,,"Cache basics, addressing",4.2 - 4.3,
+Friday,2020-03-06,27,Lecture,,"Cache layout types, replacement and write policies",4.2 - 4.3,
+Monday,2020-03-09,28,Lecture,,"Memory management, virtual vs. physical addresses",8.3,
+Wednesday,2020-03-11,29,Lecture,,Virtual memory overview,8.3,
+Friday,2020-03-13,30,Lecture,LAB 4,Virtual memory address translation,8.3,
+Friday,2020-03-20,,Final,FINAL,,,
