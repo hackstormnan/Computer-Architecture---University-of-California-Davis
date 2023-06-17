@@ -1,0 +1,11 @@
+I successfully completed a comprehensive Logisim Evolution project that involved solving a series of circuit design problems. The project required me to design and simulate various circuits using Logisim Evolution, focusing on specific constraints and utilizing a limited set of components.
+
+The project included a set of Logisim problems, each with its own submission file and requirements. These problems covered a range of circuit design concepts, such as implementing functions using multiplexers and decoders, designing bit counting and comparison circuits, creating a parity checker, developing a carry-lookahead unit, building a 4-bit ALU, and implementing error correction using the Hamming(7,4) method.
+
+I adhered to the specified constraints throughout the project, ensuring that my designs relied only on the allowed components, including basic gates, multiplexers, decoders, and the Logisim wiring library. Violating these constraints would result in point deductions.
+
+To complete the project, I had to submit the circuit files (.circ) for each problem on Gradescope. Additionally, I was required to submit an individual survey on Canvas, regardless of whether I worked with a partner or not.
+
+This project provided me with valuable hands-on experience in circuit design and simulation using Logisim Evolution. I successfully tackled complex design challenges while staying within the given constraints, further strengthening my skills in this domain.
+
+Overall, the project was a rewarding opportunity to showcase my proficiency in Logisim Evolution and demonstrate my ability to create efficient and functional circuits.
