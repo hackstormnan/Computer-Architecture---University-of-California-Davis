@@ -1,0 +1,11 @@
+The project involves building a single cycle CPU using Logisim Evolution, and it comprises a series of problems, each focusing on implementing a specific component of the CPU. The ultimate objective is to connect these components together to form a fully functional CPU.
+
+To begin, I tackled the implementation of an 8-bit Arithmetic Logic Unit (ALU). This ALU performs calculations based on stored and current input values, enabling efficient processing within the CPU.
+
+Next, I moved on to creating the Program Counter (PC) and Random Access Memory (RAM) components. The PC serves as an 8-bit up-counter that wraps around when it reaches its maximum value. The RAM, on the other hand, stores instructions and retrieves the current instruction based on the PC's value.
+
+Another critical component is the Register File, which I designed as an eight-bit, eight-register storage unit. It allows for writing to registers based on the write enable signal and outputs the current values of the registers when needed.
+
+Lastly, the most exciting part was integrating all these components into a single cycle CPU, following the provided diagram. This involved connecting the PC, ALU, RAM, and Register File, and implementing control units for instruction decoding and control signal generation.
+
+Throughout the project, Logisim Evolution proved to be an invaluable tool, and I ensured that I strictly adhered to the specifications given for each component. Additionally, I took into account the specific submission requirements and constraints for each problem.
