@@ -1,0 +1,9 @@
+Welcome! In this project focused on Logistics, I undertook a comprehensive exploration of circuit design and simulation using Logisim Evolution. The project encompassed a range of intriguing challenges, allowing me to develop proficiency in utilizing the Logisim Evolution tool effectively.
+
+The project commenced with a swift immersion into Logisim Evolution, acquainting myself with its features and functionality. I delved into designing circuits using fundamental logic gates such as NOT, AND, OR, and more, while adhering to specified constraints. I honed my ability to optimize circuit designs and employ techniques like Karnaugh maps to derive minimal sum-of-products expressions.
+
+A notable highlight of the project was the creation of a single-digit seven-segment display. Through meticulous analysis and conversion of binary-coded-decimal inputs, I successfully generated minimal sum-of-products expressions for each output segment. Rigorous testing and verification using Logisim further reinforced the accuracy and efficiency of the circuit design.
+
+Moreover, I had the opportunity to pursue an extra credit task, constructing a triple-digit display by extending the functionality of the single-digit display circuit. This involved integrating additional components and implementing advanced arithmetic operations.
+
+Overall, this project provided a dynamic platform to enhance my logical reasoning, problem-solving, and circuit design skills. Through meticulous attention to detail and adherence to professional standards, I successfully navigated the complexities of the Logistics project, yielding a rewarding and enriching experience.
